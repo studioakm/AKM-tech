@@ -1,0 +1,2 @@
+Lato Bold (lato-bold-latin.woff, Latin subset) is distributed under the SIL Open Font License 1.1 (Lato by Lukasz Dziedzic, tyPoland). 
+This copy was taken from the mkdocs "readthedocs" theme files available in the build environment. Before launch, confirm the licence text from https://www.latofonts.com/ and replace this note with the full OFL text.
